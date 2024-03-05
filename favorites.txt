@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 beef
 chicken
 lamb
+=======
+movie 1
+movie 2
+movie 2
+>>>>>>> movies
